@@ -15,7 +15,7 @@ knitr::opts_chunk$set(
 
 Material from my presentation at the 2022 rstudio::conf in Washington, DC.
 
-Presentation video is [here](https://www.rstudio.com/conference/2022/talks/save-ocean-of-time-streamline/)
+Presentation video is [here](https://www.rstudio.com/conference/2022/talks/save-ocean-of-time-streamline/).
 
 Slides are [here](https://github.com/dempsey-CMAR/2022_rstudio_conf/blob/main/Dempsey_rstudio_conf_slides.pdf).
 
